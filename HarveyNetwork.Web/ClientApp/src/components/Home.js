@@ -1,8 +1,12 @@
 import React from 'react';
 import { connect } from 'react-redux';
+import './css/home.css'
 
 const Home = props => (
-  <div>
+  
+
+    <div>
+        <div classname="header">hello there.</div>
     <h1>Hello, world!</h1>
     <p>Welcome to your new single-page application, built with:</p>
     <ul>
