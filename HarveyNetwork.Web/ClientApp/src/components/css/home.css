@@ -5,4 +5,28 @@
     overflow: hidden;
     box-shadow: 0 2px 4px rgba(0,0,0,0.2);
     position: relative;
+    display: block;
+
+}
+
+.section {
+    display: block;
+    padding: 60px 0;
+    width: 100%;
+}
+
+.section {
+    background-color: #fff;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #323237;
+    overflow: hidden;
+    position: relative;
+}
+
+
+.section-slate02 {
+    color: #fff;
+    background-color: #323237;
 }

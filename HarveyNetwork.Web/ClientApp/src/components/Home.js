@@ -6,7 +6,7 @@ const Home = props => (
   
 
     <div>
-        <div classname="header">hello there.</div>
+        <div className="section section-slate02">Inspire to Cloud Solution</div>
     <h1>Hello, world!</h1>
     <p>Welcome to your new single-page application, built with:</p>
     <ul>

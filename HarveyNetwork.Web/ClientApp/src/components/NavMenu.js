@@ -39,7 +39,8 @@ export default class NavMenu extends React.Component {
             </Collapse>
           </Container>
         </Navbar>
-      </header>
+        </header>
+        <div className="section section-slate02">hello there.</div>
     );
   }
 }
